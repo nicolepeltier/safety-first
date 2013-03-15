@@ -12,17 +12,32 @@
 <body>
 	<table width="800">
 		<tr>
-			<td>[header]</td>
-			<td>&nbsp;</td>
-		</tr>
+			<td colspan="2"><img src="../pictures/shooting-range.jpg" width="950" height="150" alt="shooting range" /></td>
+			</tr>
 		<tr>
-			<td>[navigation]</td>
+			<td>
+				<h1>Navigation</h1>
+				<p>Products</p>
+				<ul>
+					<li><a href="../items-on-sale/beretta-92fs.html">Beretta 92FS (9MM)</a></li>
+					<li><a href="../items-on-sale/sig-sauer-p229.html">Sig Sauer P229 (9MM)</a></li>
+					<li><a href="../items-on-sale/heckler-and-koch-p30l.html">Heckler &amp; Koch P30L (9MM)</a></li>
+					<li><a href="../items-on-sale/walther-ppq.html">Walther PPQ M2</a></li>
+					</ul>
+				<p>Locations</p>
+				<ul>
+					<li><a href="../locations/east.html">East Coast</a></li>
+					<li><a href="../locations/west.html">West Coast</a></li>
+					<li><a href="../locations/new-england.html">New England Area</a></li>
+					<li><a href="../locations/mid-west.html">Midwest</a></li>
+					</ul>
+				<p>&nbsp;</p>
+			</td>
 			<td>[<!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->]</td>
 		</tr>
 		<tr>
-			<td>[footer]</td>
-			<td>&nbsp;</td>
-		</tr>
+			<td colspan="2"><img src="../pictures/top-forest.jpg" width="950" height="150" alt="top forest" /></td>
+			</tr>
 	</table>
 </body>
 </html>
